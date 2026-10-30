@@ -1,0 +1,275 @@
+{
+  "totalResults": 1,
+  "companies": [
+    {
+      "businessId": { "value": "0872076-6", "registrationDate": "1992-01-23", "source": "3" },
+      "euId": { "value": "FIFPRO.0872076-6", "source": "1" },
+      "names": [
+        {
+          "name": "Hedin Automotive Retail Oy",
+          "type": "1",
+          "registrationDate": "2024-04-08",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta Auto Oy",
+          "type": "1",
+          "registrationDate": "2010-07-06",
+          "endDate": "2024-04-08",
+          "version": 2,
+          "source": "1"
+        },
+        {
+          "name": "Delta Plushuolto",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta Parts",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Klubi",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Fit",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Deltafi",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta Priima",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta Automotive Group",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta 24 H Tiepalvelu",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Autodelta",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Suomen Delta-Auto",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Yritysautot",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Vakuutus",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Vaihtoturva",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Rent",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Pikahuolto",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Delta-Easylease",
+          "type": "3",
+          "registrationDate": "2023-10-19",
+          "version": 1,
+          "source": "1"
+        }
+      ],
+      "mainBusinessLine": {
+        "type": "47811",
+        "descriptions": [
+          {
+            "languageCode": "1",
+            "description": "Autojen ja kevyiden moottoriajoneuvojen vähittäiskauppa"
+          },
+          { "languageCode": "2", "description": "Detaljhandel med bilar och lätta motorfordon" },
+          { "languageCode": "3", "description": "Retail sale of cars and light motor vehicles" }
+        ],
+        "typeCodeSet": "TOIMI4",
+        "registrationDate": "2026-01-01",
+        "source": "2"
+      },
+      "companyForms": [
+        {
+          "type": "16",
+          "descriptions": [
+            { "languageCode": "2", "description": "Aktiebolag" },
+            { "languageCode": "3", "description": "Limited company" },
+            { "languageCode": "1", "description": "Osakeyhtiö" }
+          ],
+          "registrationDate": "1992-01-29",
+          "version": 1,
+          "source": "1"
+        }
+      ],
+      "companySituations": [],
+      "registeredEntries": [
+        {
+          "type": "1",
+          "descriptions": [
+            { "languageCode": "3", "description": "Registered" },
+            { "languageCode": "2", "description": "Registrerad" },
+            { "languageCode": "1", "description": "Rekisterissä" }
+          ],
+          "registrationDate": "1992-01-29",
+          "register": "1",
+          "authority": "2"
+        },
+        {
+          "type": "1",
+          "descriptions": [
+            { "languageCode": "3", "description": "Registered" },
+            { "languageCode": "2", "description": "Registrerad" },
+            { "languageCode": "1", "description": "Rekisterissä" }
+          ],
+          "registrationDate": "1992-01-23",
+          "register": "4",
+          "authority": "1"
+        },
+        {
+          "type": "55",
+          "descriptions": [
+            { "languageCode": "3", "description": "Registered" },
+            { "languageCode": "2", "description": "Registrerad" },
+            { "languageCode": "1", "description": "Rekisterissä" }
+          ],
+          "registrationDate": "2010-07-01",
+          "register": "5",
+          "authority": "1"
+        },
+        {
+          "type": "80",
+          "descriptions": [
+            { "languageCode": "1", "description": "Liiketoiminnasta arvonlisäverovelvollinen" },
+            { "languageCode": "2", "description": "Momsskyldig för rörelseverksamhet" },
+            { "languageCode": "3", "description": "VAT-liable for business activity" }
+          ],
+          "registrationDate": "2010-07-01",
+          "register": "6",
+          "authority": "1"
+        },
+        {
+          "type": "82",
+          "descriptions": [
+            {
+              "languageCode": "2",
+              "description": "För överlåtelse av nyttjanderätten till en fastighet"
+            },
+            { "languageCode": "1", "description": "Kiinteistön käyttöoikeuden luovuttamisesta" },
+            {
+              "languageCode": "3",
+              "description": "VAT-obliged for the transfer of rights to use immovable property"
+            }
+          ],
+          "registrationDate": "2014-01-01",
+          "register": "6",
+          "authority": "1"
+        },
+        {
+          "type": "41",
+          "descriptions": [
+            { "languageCode": "3", "description": "Registered" },
+            { "languageCode": "2", "description": "Registrerad" },
+            { "languageCode": "1", "description": "Rekisterissä" }
+          ],
+          "registrationDate": "2010-07-01",
+          "register": "7",
+          "authority": "1"
+        },
+        {
+          "type": "41",
+          "descriptions": [
+            { "languageCode": "3", "description": "Registered" },
+            { "languageCode": "2", "description": "Registrerad" },
+            { "languageCode": "1", "description": "Rekisterissä" }
+          ],
+          "registrationDate": "1992-01-01",
+          "endDate": "1993-11-30",
+          "register": "7",
+          "authority": "1"
+        }
+      ],
+      "addresses": [
+        {
+          "type": 2,
+          "street": "",
+          "postCode": "80101",
+          "postOffices": [
+            { "city": "JOENSUU", "languageCode": "1", "municipalityCode": "167" },
+            { "city": "JOENSUU", "languageCode": "2", "municipalityCode": "167" }
+          ],
+          "postOfficeBox": "36",
+          "buildingNumber": "",
+          "entrance": "",
+          "apartmentNumber": "",
+          "apartmentIdSuffix": "",
+          "co": "",
+          "registrationDate": "2024-10-21",
+          "source": "0"
+        }
+      ],
+      "tradeRegisterStatus": "1",
+      "status": "2",
+      "registrationDate": "1992-01-29",
+      "lastModified": "2026-07-28T11:50:53"
+    }
+  ]
+}
